@@ -1,4 +1,0 @@
-Przykladowy plik tekstowy
-Druga linia
-Trzecia linia
-Ostatnia linia
